@@ -9,7 +9,7 @@
 - [Resource1](https://www.w3schools.com/python/ref_string_format.asp)
 - [Resource2](https://realpython.com/python-kwargs-and-args/#unpacking-with-the-asterisk-operators)
 - [Resource3](https://docs.python.org/3/library/re.html)
-- [PR Link]()
+- [PR Link](https://github.com/tareqzoubii/madlib-cli/pull/1)
 
 ### Setup
 - python3 -m venv .venv
